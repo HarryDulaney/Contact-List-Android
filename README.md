@@ -1,9 +1,5 @@
-
-
-
-
-
 # -- Contact List for Android--
+
 _[For the iOS Version Click Here ](https://github.com/HarryDulaney/Contact-List-iOS)_
 
 **This is a contact list application which implements:**
