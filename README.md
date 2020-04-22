@@ -18,7 +18,10 @@ ____
  
 ____
 
-<div class="center" height="50%">
- <img src="/screenshots/list-view-screen.png"/>
+<div align="center">
+ <img src="/screenshots/list-view-screen.png"  height="350px" hspace=""/>
  </div>
+
+
+
 
