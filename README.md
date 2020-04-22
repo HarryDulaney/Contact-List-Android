@@ -19,9 +19,9 @@ ____
 ____
 
 <div align="center">
- <img src="/screenshots/list-view-screen.png"  height="350px" hspace="20"/>
- <img src="/screenshots/map-view-regscreen.png"  height="350px" hspace="20"/>
- 
+ <img src="/screenshots/list-view-screen.png"  height="350px" hspace="10"/>
+ <img src="/screenshots/map-view-regscreen.png"  height="350px" hspace="10"/>
+  <img src="/screenshots/add-contact-screen.png"  height="350px" hspace="10"/>
  </div>
 
 
