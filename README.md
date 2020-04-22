@@ -1,6 +1,13 @@
 # _Contact List for Android_
 ____
-
+<div align="center">
+  <img src="/screenshots/add-contact-screen.png"  height="350px" hspace="5"/>
+ <img src="/screenshots/list-view-screen.png"  height="350px" hspace="5"/>
+ <img src="/screenshots/map-view-regscreen.png"  height="350px" hspace="5"/>
+  <img src="/screenshots/map-view-screen.png"  height="350px" hspace="5"/>
+ </div>
+____
+ 
 _[For the iOS Version Click Here ](https://github.com/HarryDulaney/Contact-List-iOS)_
 ____
 **This is a contact list application which implements:**
@@ -16,14 +23,7 @@ ____
  - Data persistance in mobile applications
  - SQLite design and implementation
  
-____
 
-<div align="center">
-  <img src="/screenshots/add-contact-screen.png"  height="350px" hspace="5"/>
- <img src="/screenshots/list-view-screen.png"  height="350px" hspace="5"/>
- <img src="/screenshots/map-view-regscreen.png"  height="350px" hspace="5"/>
-  <img src="/screenshots/map-view-screen.png"  height="350px" hspace="5"/>
- </div>
 
 
 
