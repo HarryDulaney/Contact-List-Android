@@ -1,10 +1,10 @@
 # _Contact List for Android_
 ____
 <div align="center">
-  <img src="/screenshots/add-contact-screen.png"  height="350px" hspace="5"/>
- <img src="/screenshots/list-view-screen.png"  height="350px" hspace="5"/>
- <img src="/screenshots/map-view-regscreen.png"  height="350px" hspace="5"/>
-  <img src="/screenshots/map-view-screen.png"  height="350px" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/Contact-List-Android/master/screenshots/add-contact-screen.png"  height="350px" hspace="5"/>
+ <img src="https://raw.githubusercontent.com/HarryDulaney/Contact-List-Android/master/screenshots/list-view-screen.png"  height="350px" hspace="5"/>
+ <img src="https://raw.githubusercontent.com/HarryDulaney/Contact-List-Android/master/screenshots/map-view-regscreen.png"  height="350px" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/Contact-List-Android/master/screenshots/map-view-screen.png"  height="350px" hspace="5"/>
  </div>
 ____
  
